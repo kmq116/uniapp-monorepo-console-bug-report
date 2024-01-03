@@ -1,0 +1,16 @@
+{
+  "name": "empty-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-handle-packet": "workspace:*",
+    "is-thirteen": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+}

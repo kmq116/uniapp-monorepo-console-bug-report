@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "target": "esnext",
+    "lib": ["DOM","ESNext"],
+    "alwaysStrict": true,
+    "outDir": "dist", // 指定输出目录，可自行修改
+  },
+}
